@@ -1,0 +1,24 @@
+1) Create project with Gradle 
+	Install dependencies by updating build.gradle 
+
+2) Create Car Asset Class (.java)
+	Private Variable
+	Public Get functions
+	Constructor to initialize values
+	--> Concept of encapsulation
+
+3) Create Car Transfer Ownership (.java)
+	Import statements
+	Annotations
+	initledger (to initialize some values using the constructor)
+	3 functions (Read/Write function)
+		Add New Car
+		Query Car By Id
+		Transfer Car Ownership
+
+4) Compiling the chaincode in linux command 
+	Renamed the jar file name in the build folder 
+
+5) Setting up the fabric network
+	
+	
